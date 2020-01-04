@@ -8,6 +8,8 @@ a:hover{text-decoration:underline}
 .page .chrome{padding-left:4em;background:url('./Google_Chrome_icon_(September_2014).svg') no-repeat .5em 0/contain}
 .page .firefox{padding-left:4em;background:url('./Firefox_logo,_2019.svg') no-repeat .5em 0/contain}
 /* https://www.mozilla.org/en-US/MPL/2.0/ */
+.page .opera{padding-left:4em;background:url('./Opera_2015_icon.svg') no-repeat .5em 0/contain}
+.page .edge{padding-left:4em;background:url('./Microsoft_Edge_logo.svg') no-repeat .5em 0/contain}
 .wc{margin:auto;max-width:1080px}
 .tc{text-align:center}
 .dn{display:flex;justify-content:center;height:3em}
