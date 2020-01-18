@@ -12,5 +12,6 @@ a:hover{text-decoration:underline}
 .page .edge{padding-left:4em;background:url('./Microsoft_Edge_logo.svg') no-repeat .5em 0/contain}
 .wc{margin:auto;max-width:1080px}
 .tc{text-align:center}
+.lc{display:flex;justify-content:center;text-align:left}
 .dn{display:flex;justify-content:center;height:3em}
 .dn a span{font-size:1.5em;line-height:1.75}
